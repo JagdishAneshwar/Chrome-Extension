@@ -1,0 +1,23 @@
+.submit {
+  background-color: #ac7d88 !important;
+  border-color: #ac7d88;
+  color: white;
+}
+
+.submit:hover {
+  background-color: #00a37a !important;
+  border-color: #00a37a;
+  color: white;
+}
+
+.form-control:focus {
+  border-color: antiquewhite;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px #ffebc1;
+}
+
+.submit:focus {
+  background-color: #00a37a !important;
+  border-color: #00a37a;
+  color: white;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px #f8ecd1;
+}
